@@ -9,7 +9,7 @@ st.sidebar.info(
     """
     BASS\n
     FRANK\n
-    [Project Formulaire](http://localhost:8501/formulaire#formulaire-de-contact)
+    [Project Formulaire](https://web-app-frank.streamlit.app/)
     """
 )
 
