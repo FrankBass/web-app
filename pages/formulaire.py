@@ -35,6 +35,6 @@ if submit_button:
         st.write("Tu es un ancêtre :)")
     else:
         st.write("Vous êtes majeur")
-    st.write(f"Bienvenue, {first_name} {last_name}!"
+    st.write(f"Bienvenue, {first_name} {last_name}!")
 
 
